@@ -1,4 +1,4 @@
-# Fuckstyrofoam.org
+## [https://fuckstyrofoam.org](https://fuckstyrofoam.org/)
 
 # React + TypeScript + Vite
 
